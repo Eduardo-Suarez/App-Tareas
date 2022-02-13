@@ -2,4 +2,4 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+Esto servira para no estar configurando un a y otra vez el Webpack.
